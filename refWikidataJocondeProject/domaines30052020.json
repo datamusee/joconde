@@ -1,0 +1,4596 @@
+{
+  "head": {
+    "vars": [
+      "itemWikidataLabel",
+      "domaine_Joconde",
+      "itemWikidata",
+      "BnF",
+      "GnD",
+      "LibraryOfCongress",
+      "AAT",
+      "Pactols",
+      "UNESCO",
+      "Nomenclature"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-111"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "153236036"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4000695-5"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85001531"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept688"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Afrique"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27381"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-112"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85001631"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept729"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Afrique du Nord"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt3AEZFuMiTX"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300016586"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132959"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-113"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4053770-5"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85001667"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept1608"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Afrique subsaharienne"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtXRz0PjM3Vw"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36747"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-91"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4026718-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85065022"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2168"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amérindiens"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtle6lnBzbn6"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36747"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-91"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4026718-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85065184"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2168"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amérindiens"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtle6lnBzbn6"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36747"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-91"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4026718-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85065540"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2168"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amérindiens"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtle6lnBzbn6"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q828"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-114"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4001670-5"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85004220"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept754"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amérique"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27611"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-116"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4079486-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85021871"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept769"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amérique centrale"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtnONmvpna0m"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q49"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-115"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "15238493p"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4042483-2"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85092455"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept791"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amérique du Nord"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt0NhSIs62Uc"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300134121"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-117"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "15238513g"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4078014-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85125524"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept800"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Amérique du Sud"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtX6SR0Eb4xv"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q577622"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-95"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Art copte"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtSUtUERIaDl"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1746936"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-2"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Art mobilier"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtWbThvTYYf4"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-118"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4003217-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85008606"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept812"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Asie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtOy6zXTSBps"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27275"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-119"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4079487-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85008625"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept819"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Asie centrale"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtKOhBLF1k4b"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27231"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-123"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4075727-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85040525"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept821"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Asie de l'Est"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27293"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-122"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Asie de l'Ouest"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q771405"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-121"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4058406-9"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept867"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Asie du Sud"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300120222"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11708"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-120"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4058448-3"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept868"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Asie du Sud-Est"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtn6lDSdV0Ep"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133602"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-93"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11966135g"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "118721003"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85020340"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Carolingiens"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtcRGMj9gqx2"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130253"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-80"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4138001-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85032338"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Chalcolithique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt6v7rFwj0do"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300019273"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q130253"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-80"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4138001-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85032338"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Chalcolithique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt6v7rFwj0do"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300106757"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q644636"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-94"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Chypre"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2967757"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-94"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Chypre"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3028261"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-16"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Dinanderie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12560"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-106"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4075720-1"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85138802"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Empire ottoman"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt306JKDoXp3"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1364601"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-98"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Gallo-romains"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtlaEjZ1EQHL"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q273854"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-155"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4098012-1"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Gaulois"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtYX0GbpaHtH"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11772"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-100"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Grèce antique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtNzYn31IIAZ"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300020072"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q190992"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-101"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Ibères"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtPitqeN9Wob"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q479257"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-22"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4057175-0"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Industrie lithique"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4941588"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-23"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Industrie osseuse"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtpy5s63Sdhx"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189975"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-103"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "119321367"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh93001720"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept17003"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Inuits"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300017455"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q108810"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-104"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Italiques"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtSs1jawHPnX"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12554"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-81"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "133185191"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4129108-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85085001"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept8948"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Moyen Âge"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59488"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-105"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "11858118X"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mérovingiens"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtXQfsEB7axW"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q44155"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-83"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4169472-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85083941"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Mésolithique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtNs85SfBRuH"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300019264"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q538"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-125"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4044257-3"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85093910"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept856"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Océanie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q40203"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-86"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4140148-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85097106"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept14909"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Paléolithique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtFS9v4PxyYL"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300019258"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41642"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-107"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Phénicie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtE2mI9TR7Hc"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1747689"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-109"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4076778-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "n79039816"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Rome antique"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300020533"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1747689"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-109"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4076778-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85115064"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Rome antique"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300020533"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3754526"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-72"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "administration"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11451"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-47"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11934798x"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4034402-2"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85002415"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept598"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "agriculture"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtuDGmtyntVb"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054463"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11451"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-47"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11934798x"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4034402-2"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85002415"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept598"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "agriculture"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtuDGmtyntVb"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300192802"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q31807746"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-48"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "ameublement"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300037336"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "967"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q729"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-167"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "119328694"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4060087-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85005249"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2380"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "animal"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300249395"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23404"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-148"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "133184815"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4002230-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85005581"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept229"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "anthropologie"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054315"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12271"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-159"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4002851-3"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85006611"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept340"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "architecture"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtKJVpuP3AET"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23498"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-128"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "13318444z"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4002827-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85006507"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept298"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "archéologie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrty05M9SVnLu"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054328"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1412205"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-13"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4190772-3"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "armurerie"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "705"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8473"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-70"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4039305-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh99002455"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "armée"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtDz6FAhsh6y"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q318394"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-96"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "art de l'Égypte antique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt2BDKjpw0Vt"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7137052"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-3"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "art pariétal"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtTv2xhrEwPW"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q877729"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-52"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4073883-8"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "artisanat"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtuNA5xRSr9l"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189594"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-171"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85068412"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2643"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "arts de l'Islam"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt1RQWEhnyll"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q189594"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-171"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85068412"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2967"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "arts de l'Islam"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt1RQWEhnyll"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q631931"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-147"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept341"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "arts décoratifs"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtkOgxvd4Ijy"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054168"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q126756"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-92"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "133183033"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4004644-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85012145"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "basques"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtxvYfo5iyQj"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q219625"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-170"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept342"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "beaux-arts"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054195"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q441"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-161"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4007842-5"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85015976"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept230"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "botanique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtvw7qwGBX9r"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054467"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18281"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-150"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "119400073"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4057504-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85042701"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "broderie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtEZ3IWDDNh4"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300053653"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4006"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-130"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4029783-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85080858"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept3270"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "carte géographique"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300028094"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "13399"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4006"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-130"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4029783-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh99002035"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept3270"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "carte géographique"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300028094"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "13399"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q27939"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-64"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4020470-4"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "chant"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtHfc0ScaO1k"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36963"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-53"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "119311589"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4027955-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85063117"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept4807"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "chasse"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtcoV2DHQBSp"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300239666"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4115400"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-15"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "chaudronnerie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtqnlwWUYBQL"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q590870"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "6466d493-5d9c-448d-b7de-1136d20d413f"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "119361188"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4017144-9"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "cinéma"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054227"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2429397"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-108"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85020502"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "civilisation carthaginoise"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300391484"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3404008"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-102"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "civilisation inca"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt755Hfqu92S"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202390"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-87"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "civilisation précolombienne"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtmSboe11eDx"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300016619"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q202390"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-87"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "civilisation précolombienne"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtmSboe11eDx"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300016684"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q601401"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-54"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4023222-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85028901"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept664"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "commerce"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrthOtrQhBIUG"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300061886"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11024"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-66"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11938923j"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4031883-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85029027"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept460"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "communication"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300137794"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q385378"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-168"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4206990-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85017693"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "construction"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054608"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q9053464"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-55"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "costume"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300178802"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q251777"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-56"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4008017-1"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "coutume"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2728698"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-56"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept3707"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "croyance religieuse"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2991771"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-53"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "cueillette"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrteddANclva4"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11042"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-74"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11931827z"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4125698-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85034755"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept264"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "culture"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300055768"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q45621"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-14"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11935435f"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4030270-2"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept4413"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "céramique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt1DMOWvDF4j"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300235507"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11639"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-64"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4059028-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85035659"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept351"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "danse"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtw6n4DvmdOZ"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q89304761"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-151"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "dentellerie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q82604"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-131"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4011510-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85037197"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "design"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054171"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q93184"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-4"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4127900-1"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept4716"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "dessin"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtzmgVgArOJh"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300033973"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "12903"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7743"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-69"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85061657"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "domicile"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q352842"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-58"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept82"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "enseignement"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt9vNUqRWTWt"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300069743"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43619"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-59"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept3278"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "environnement"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8463"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "bfd34179-8f7e-4661-b103-b3ed1a2c2909"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4055260-3"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85123314"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept4733"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "esclavage"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtZB9iAZQbhj"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300055309"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11060274"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-6"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "estampe"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtQRJAu1ZqJK"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300041273"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "13448"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43455"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-133"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "13318485j"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4078931-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85045198"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept376"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "ethnologie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtxMZey15FER"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054316"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1562096"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-19"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "ferronnerie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt9fuIbhcoZu"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300015338"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q43015"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-54"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh2002007885"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept663"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "finance"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300055715"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q200538"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-65"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4121260-5"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh2001000033"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "fête"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtXjbjyxyKwb"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300069614"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q929254"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-20"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4057223-7"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "glyptique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtk2Q3q7YWXG"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054082"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1069"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-164"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4020227-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85054037"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept159"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "géologie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtcMAzwfcMyS"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054546"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q950799"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-139"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh93004493"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "harnachement"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtNtGbI8Rqxi"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-140"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4020517-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85061212"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept301"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "histoire"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtJHV6SKuS8I"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q309"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-140"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4020517-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85061212"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept302"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "histoire"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtJHV6SKuS8I"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3281534"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-84"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4171678-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85061236"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept11865"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "histoire moderne"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtPSEEZSBEJp"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q41767"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-21"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4129074-4"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "horlogerie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q162297"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-60"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4026331-9"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85118338"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept11758"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "hygiène"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtXiL6nBw86Y"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300379164"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q18336"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-138"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4072428-1"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept300"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "héraldique"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1261026"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-8"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4013134-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85106766"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "imprimé"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300404588"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8148"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-52"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4026779-9"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept608"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "industrie"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300055718"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q20437094"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-40"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85066731"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "installation"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300047896"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2041172"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-63"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "119324889"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4038825-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85082706"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept12690"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "instrument de mesure"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtiTfxN9MLL9"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300207870"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q351853"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-24"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "ivoirerie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11410"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-61"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4056218-9"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "jeu"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtV3kw2a2i6i"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184872"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-61"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4015261-3"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85111945"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "loisir"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtajHBJm1GSI"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300069710"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3267878"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-154"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "lutherie"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300379786"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q87167"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-9"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4126273-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85080672"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept8324"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "manuscrit"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtvZpJkjngoX"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300028569"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "13729"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48498"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-5"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11932413d"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4120472-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85064332"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "manuscrit enluminé"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300265483"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2183679"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-25"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "menuiserie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q177626"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "27686e84-a444-4496-aea8-e1a9b8ced6d3"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4120730-0"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept427"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "migration humaine"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtMqdYDvNdi0"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300263931"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8362"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-11"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4008650-1"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "miniature"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300264522"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133067"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-26"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4040311-7"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept11738"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "mosaïque"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtqjiJozZ1eX"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300015342"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "432"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q638"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-64"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4040802-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85088762"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept353"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "musique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtEnaO4jSDml"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054146"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q638"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-64"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4040802-4"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh99001795"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept353"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "musique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtEnaO4jSDml"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054146"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7175"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "704f0fe5-572a-48e1-b633-2c0f7d77623a"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4139655-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85089188"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "mycologie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11190"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-60"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4038243-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85083064"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "médecine"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11467"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-153"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4074756-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85084158"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept626"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "métallurgie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtuf9JSs9vo6"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054499"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q394"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-63"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4169749-2"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh2001008470"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept13884"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "métrologie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtaJkXATOYwB"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300379443"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q631286"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-141"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4172175-5"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept304"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "numismatique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtaEf2wWY07i"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054419"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q36422"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-85"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4075272-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85090768"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept14499"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "néolithique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtH8P95EucZz"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300019267"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q337060"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "e2acd93a-8a37-4ce6-b04c-a184d03b2e15"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4019715-3"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "objet"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11202319"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-28"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4113771-1"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "orfèvrerie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtSIkOA9h9ld"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054048"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11629"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-42"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4037220-0"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept8418"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "peinture"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtstIRKEezxz"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054216"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q461262"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-142"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4573246-2"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "phaléristique"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q131026"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-158"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4076072-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85105432"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "philatélie"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300162025"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11633"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-43"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4045895-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh00006943"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept345"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "photographie"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054225"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11633"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-43"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4045895-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh00006943"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept345"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "photographie"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300389795"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2099675"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-44"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "plumasserie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7163"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-72"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4046514-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh2002011436"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept15289"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "politique"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtQdSP02tK3w"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300055537"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q14373"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-53"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4154473-0"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "pêche"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtmSImgZOUQg"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300239470"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q12147"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-60"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4020754-7"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85059518"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept238"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "santé"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300055133"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q336"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-144"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11933232c"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4066562-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh00007934"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "science"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300054462"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7991"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-156"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4041421-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85090222"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept233"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "science de la nature"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300233656"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11634"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-45"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11933241b"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4046277-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85119004"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept10193"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sculpture"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt4rR2kyMQuW"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300264383"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3478178"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-29"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sellerie automobile"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2304418"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-30"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4278241-7"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "serrurerie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtuq4lc43JjB"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q379838"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-145"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4181228-1"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85119320"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sigillographie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt4HOgRfOBut"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q8425"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-74"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4020588-5"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85124175"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "société"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q15116915"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-65"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85052948"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "spectacle"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtk9fsq49Ab1"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q349"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-61"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "133188907"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4056366-2"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh00007735"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sport"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtcS3oJgVjRu"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q349"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-61"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "133188907"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4056366-2"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85126887"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "sport"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtcS3oJgVjRu"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q89304504"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-31"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "tabletterie"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3513509"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-31"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "tabletterie gallo-romaine"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q184296"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-32"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4006648-4"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept4694"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "tapisserie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtLhbOznwGk6"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300205002"
+        },
+        "Nomenclature": {
+          "type": "literal",
+          "value": "12984"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q2695280"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-144"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4059205-4"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "technique"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300138082"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28823"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-34"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4135786-3"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85134321"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept642"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "textile"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrthAOjGBEfZk"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300014063"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q28823"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-34"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4135786-3"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85134321"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept642"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "textile"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrthAOjGBEfZk"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300231565"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7590"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-66"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4062901-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85137027"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept660"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "transport"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300055244"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6958747"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-73"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4002567-6"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh90004091"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept683"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "travail"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtLAIHHPQYx9"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300263340"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q373017"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-37"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85012110"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "vannerie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt2o4bOY3kIh"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1089246"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-38"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "verrerie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtpYS4ijo0m2"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q34508"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "a0c77d3d-ccaf-41c8-b2c8-ace8e43f47ba"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4063466-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh92003035"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "vidéo"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1473346"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-39"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4021177-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85055165"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2954"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "vitrail"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtfiKSZUXfxE"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300010853"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1473346"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-39"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4021177-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85055165"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2954"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "vitrail"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtfiKSZUXfxE"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300263722"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17161"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-97"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4015627-8"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85045470"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "Étrusques"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrt5eUmg9dK5H"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300020471"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11761"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-77"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4008357-3"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "âge du bronze"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtGTWPtWn8qu"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300019275"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11764"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-78"
+        },
+        "BnF": {
+          "type": "literal",
+          "value": "11946304b"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4014102-0"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85068153"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "âge du fer"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtW9SpIgIk7Q"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300019279"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16868432"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-17"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "ébénisterie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtMKyUOGAjxg"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q159810"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-54"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4066399-1"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "économie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtafV5Xq6zoY"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300389790"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q79496108"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-18"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "émail"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300178264"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q11379"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-57"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4014692-3"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85105992"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "énergie"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300056007"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q181260"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-132"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "4152508-5"
+        },
+        "LibraryOfCongress": {
+          "type": "literal",
+          "value": "sh85066566"
+        },
+        "UNESCO": {
+          "type": "literal",
+          "value": "concept2362"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "épigraphie"
+        },
+        "Pactols": {
+          "type": "literal",
+          "value": "pcrtJrInD7k8G1"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300138808"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5308718"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-89"
+        },
+        "GnD": {
+          "type": "literal",
+          "value": "7503866-3"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "époque moderne"
+        }
+      },
+      {
+        "itemWikidata": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q22075301"
+        },
+        "domaine_Joconde": {
+          "type": "literal",
+          "value": "T51-152"
+        },
+        "itemWikidataLabel": {
+          "xml:lang": "fr",
+          "type": "literal",
+          "value": "œuvre textile"
+        },
+        "AAT": {
+          "type": "literal",
+          "value": "300386843"
+        }
+      }
+    ]
+  }
+}

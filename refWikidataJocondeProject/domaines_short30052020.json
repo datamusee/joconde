@@ -1,0 +1,1356 @@
+[
+  {
+    "itemWikidataLabel": "Afrique",
+    "domaine_Joconde": "T51-111",
+    "itemWikidata": "http://www.wikidata.org/entity/Q15",
+    "BnF": "153236036",
+    "GnD": "4000695-5",
+    "LibraryOfCongress": "sh85001531",
+    "UNESCO": "concept688"
+  },
+  {
+    "itemWikidataLabel": "Afrique du Nord",
+    "domaine_Joconde": "T51-112",
+    "itemWikidata": "http://www.wikidata.org/entity/Q27381",
+    "LibraryOfCongress": "sh85001631",
+    "AAT": "300016586",
+    "Pactols": "pcrt3AEZFuMiTX",
+    "UNESCO": "concept729"
+  },
+  {
+    "itemWikidataLabel": "Afrique subsaharienne",
+    "domaine_Joconde": "T51-113",
+    "itemWikidata": "http://www.wikidata.org/entity/Q132959",
+    "GnD": "4053770-5",
+    "LibraryOfCongress": "sh85001667",
+    "Pactols": "pcrtXRz0PjM3Vw",
+    "UNESCO": "concept1608"
+  },
+  {
+    "itemWikidataLabel": "Amérindiens",
+    "domaine_Joconde": "T51-91",
+    "itemWikidata": "http://www.wikidata.org/entity/Q36747",
+    "GnD": "4026718-0",
+    "LibraryOfCongress": "sh85065022",
+    "Pactols": "pcrtle6lnBzbn6",
+    "UNESCO": "concept2168"
+  },
+  {
+    "itemWikidataLabel": "Amérindiens",
+    "domaine_Joconde": "T51-91",
+    "itemWikidata": "http://www.wikidata.org/entity/Q36747",
+    "GnD": "4026718-0",
+    "LibraryOfCongress": "sh85065184",
+    "Pactols": "pcrtle6lnBzbn6",
+    "UNESCO": "concept2168"
+  },
+  {
+    "itemWikidataLabel": "Amérindiens",
+    "domaine_Joconde": "T51-91",
+    "itemWikidata": "http://www.wikidata.org/entity/Q36747",
+    "GnD": "4026718-0",
+    "LibraryOfCongress": "sh85065540",
+    "Pactols": "pcrtle6lnBzbn6",
+    "UNESCO": "concept2168"
+  },
+  {
+    "itemWikidataLabel": "Amérique",
+    "domaine_Joconde": "T51-114",
+    "itemWikidata": "http://www.wikidata.org/entity/Q828",
+    "GnD": "4001670-5",
+    "LibraryOfCongress": "sh85004220",
+    "UNESCO": "concept754"
+  },
+  {
+    "itemWikidataLabel": "Amérique centrale",
+    "domaine_Joconde": "T51-116",
+    "itemWikidata": "http://www.wikidata.org/entity/Q27611",
+    "GnD": "4079486-6",
+    "LibraryOfCongress": "sh85021871",
+    "Pactols": "pcrtnONmvpna0m",
+    "UNESCO": "concept769"
+  },
+  {
+    "itemWikidataLabel": "Amérique du Nord",
+    "domaine_Joconde": "T51-115",
+    "itemWikidata": "http://www.wikidata.org/entity/Q49",
+    "BnF": "15238493p",
+    "GnD": "4042483-2",
+    "LibraryOfCongress": "sh85092455",
+    "AAT": "300134121",
+    "Pactols": "pcrt0NhSIs62Uc",
+    "UNESCO": "concept791"
+  },
+  {
+    "itemWikidataLabel": "Amérique du Sud",
+    "domaine_Joconde": "T51-117",
+    "itemWikidata": "http://www.wikidata.org/entity/Q18",
+    "BnF": "15238513g",
+    "GnD": "4078014-4",
+    "LibraryOfCongress": "sh85125524",
+    "Pactols": "pcrtX6SR0Eb4xv",
+    "UNESCO": "concept800"
+  },
+  {
+    "itemWikidataLabel": "Art copte",
+    "domaine_Joconde": "T51-95",
+    "itemWikidata": "http://www.wikidata.org/entity/Q577622",
+    "Pactols": "pcrtSUtUERIaDl"
+  },
+  {
+    "itemWikidataLabel": "Art mobilier",
+    "domaine_Joconde": "T51-2",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1746936",
+    "Pactols": "pcrtWbThvTYYf4"
+  },
+  {
+    "itemWikidataLabel": "Asie",
+    "domaine_Joconde": "T51-118",
+    "itemWikidata": "http://www.wikidata.org/entity/Q48",
+    "GnD": "4003217-6",
+    "LibraryOfCongress": "sh85008606",
+    "Pactols": "pcrtOy6zXTSBps",
+    "UNESCO": "concept812"
+  },
+  {
+    "itemWikidataLabel": "Asie centrale",
+    "domaine_Joconde": "T51-119",
+    "itemWikidata": "http://www.wikidata.org/entity/Q27275",
+    "GnD": "4079487-8",
+    "LibraryOfCongress": "sh85008625",
+    "Pactols": "pcrtKOhBLF1k4b",
+    "UNESCO": "concept819"
+  },
+  {
+    "itemWikidataLabel": "Asie de l'Est",
+    "domaine_Joconde": "T51-123",
+    "itemWikidata": "http://www.wikidata.org/entity/Q27231",
+    "GnD": "4075727-4",
+    "LibraryOfCongress": "sh85040525",
+    "UNESCO": "concept821"
+  },
+  {
+    "itemWikidataLabel": "Asie de l'Ouest",
+    "domaine_Joconde": "T51-122",
+    "itemWikidata": "http://www.wikidata.org/entity/Q27293"
+  },
+  {
+    "itemWikidataLabel": "Asie du Sud",
+    "domaine_Joconde": "T51-121",
+    "itemWikidata": "http://www.wikidata.org/entity/Q771405",
+    "GnD": "4058406-9",
+    "AAT": "300120222",
+    "UNESCO": "concept867"
+  },
+  {
+    "itemWikidataLabel": "Asie du Sud-Est",
+    "domaine_Joconde": "T51-120",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11708",
+    "GnD": "4058448-3",
+    "Pactols": "pcrtn6lDSdV0Ep",
+    "UNESCO": "concept868"
+  },
+  {
+    "itemWikidataLabel": "Carolingiens",
+    "domaine_Joconde": "T51-93",
+    "itemWikidata": "http://www.wikidata.org/entity/Q133602",
+    "BnF": "11966135g",
+    "GnD": "118721003",
+    "LibraryOfCongress": "sh85020340",
+    "Pactols": "pcrtcRGMj9gqx2"
+  },
+  {
+    "itemWikidataLabel": "Chalcolithique",
+    "domaine_Joconde": "T51-80",
+    "itemWikidata": "http://www.wikidata.org/entity/Q130253",
+    "GnD": "4138001-0",
+    "LibraryOfCongress": "sh85032338",
+    "AAT": "300019273",
+    "Pactols": "pcrt6v7rFwj0do"
+  },
+  {
+    "itemWikidataLabel": "Chalcolithique",
+    "domaine_Joconde": "T51-80",
+    "itemWikidata": "http://www.wikidata.org/entity/Q130253",
+    "GnD": "4138001-0",
+    "LibraryOfCongress": "sh85032338",
+    "AAT": "300106757",
+    "Pactols": "pcrt6v7rFwj0do"
+  },
+  {
+    "itemWikidataLabel": "Chypre",
+    "domaine_Joconde": "T51-94",
+    "itemWikidata": "http://www.wikidata.org/entity/Q644636"
+  },
+  {
+    "itemWikidataLabel": "Chypre",
+    "domaine_Joconde": "T51-94",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2967757"
+  },
+  {
+    "itemWikidataLabel": "Dinanderie",
+    "domaine_Joconde": "T51-16",
+    "itemWikidata": "http://www.wikidata.org/entity/Q3028261"
+  },
+  {
+    "itemWikidataLabel": "Empire ottoman",
+    "domaine_Joconde": "T51-106",
+    "itemWikidata": "http://www.wikidata.org/entity/Q12560",
+    "GnD": "4075720-1",
+    "LibraryOfCongress": "sh85138802",
+    "Pactols": "pcrt306JKDoXp3"
+  },
+  {
+    "itemWikidataLabel": "Gallo-romains",
+    "domaine_Joconde": "T51-98",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1364601",
+    "Pactols": "pcrtlaEjZ1EQHL"
+  },
+  {
+    "itemWikidataLabel": "Gaulois",
+    "domaine_Joconde": "T51-155",
+    "itemWikidata": "http://www.wikidata.org/entity/Q273854",
+    "GnD": "4098012-1",
+    "Pactols": "pcrtYX0GbpaHtH"
+  },
+  {
+    "itemWikidataLabel": "Grèce antique",
+    "domaine_Joconde": "T51-100",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11772",
+    "AAT": "300020072",
+    "Pactols": "pcrtNzYn31IIAZ"
+  },
+  {
+    "itemWikidataLabel": "Ibères",
+    "domaine_Joconde": "T51-101",
+    "itemWikidata": "http://www.wikidata.org/entity/Q190992",
+    "Pactols": "pcrtPitqeN9Wob"
+  },
+  {
+    "itemWikidataLabel": "Industrie lithique",
+    "domaine_Joconde": "T51-22",
+    "itemWikidata": "http://www.wikidata.org/entity/Q479257",
+    "GnD": "4057175-0"
+  },
+  {
+    "itemWikidataLabel": "Industrie osseuse",
+    "domaine_Joconde": "T51-23",
+    "itemWikidata": "http://www.wikidata.org/entity/Q4941588",
+    "Pactols": "pcrtpy5s63Sdhx"
+  },
+  {
+    "itemWikidataLabel": "Inuits",
+    "domaine_Joconde": "T51-103",
+    "itemWikidata": "http://www.wikidata.org/entity/Q189975",
+    "BnF": "119321367",
+    "LibraryOfCongress": "sh93001720",
+    "AAT": "300017455",
+    "UNESCO": "concept17003"
+  },
+  {
+    "itemWikidataLabel": "Italiques",
+    "domaine_Joconde": "T51-104",
+    "itemWikidata": "http://www.wikidata.org/entity/Q108810",
+    "Pactols": "pcrtSs1jawHPnX"
+  },
+  {
+    "itemWikidataLabel": "Moyen Âge",
+    "domaine_Joconde": "T51-81",
+    "itemWikidata": "http://www.wikidata.org/entity/Q12554",
+    "BnF": "133185191",
+    "GnD": "4129108-6",
+    "LibraryOfCongress": "sh85085001",
+    "UNESCO": "concept8948"
+  },
+  {
+    "itemWikidataLabel": "Mérovingiens",
+    "domaine_Joconde": "T51-105",
+    "itemWikidata": "http://www.wikidata.org/entity/Q59488",
+    "GnD": "11858118X",
+    "Pactols": "pcrtXQfsEB7axW"
+  },
+  {
+    "itemWikidataLabel": "Mésolithique",
+    "domaine_Joconde": "T51-83",
+    "itemWikidata": "http://www.wikidata.org/entity/Q44155",
+    "GnD": "4169472-7",
+    "LibraryOfCongress": "sh85083941",
+    "AAT": "300019264",
+    "Pactols": "pcrtNs85SfBRuH"
+  },
+  {
+    "itemWikidataLabel": "Océanie",
+    "domaine_Joconde": "T51-125",
+    "itemWikidata": "http://www.wikidata.org/entity/Q538",
+    "GnD": "4044257-3",
+    "LibraryOfCongress": "sh85093910",
+    "UNESCO": "concept856"
+  },
+  {
+    "itemWikidataLabel": "Paléolithique",
+    "domaine_Joconde": "T51-86",
+    "itemWikidata": "http://www.wikidata.org/entity/Q40203",
+    "GnD": "4140148-7",
+    "LibraryOfCongress": "sh85097106",
+    "AAT": "300019258",
+    "Pactols": "pcrtFS9v4PxyYL",
+    "UNESCO": "concept14909"
+  },
+  {
+    "itemWikidataLabel": "Phénicie",
+    "domaine_Joconde": "T51-107",
+    "itemWikidata": "http://www.wikidata.org/entity/Q41642",
+    "Pactols": "pcrtE2mI9TR7Hc"
+  },
+  {
+    "itemWikidataLabel": "Rome antique",
+    "domaine_Joconde": "T51-109",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1747689",
+    "GnD": "4076778-4",
+    "LibraryOfCongress": "n79039816",
+    "AAT": "300020533"
+  },
+  {
+    "itemWikidataLabel": "Rome antique",
+    "domaine_Joconde": "T51-109",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1747689",
+    "GnD": "4076778-4",
+    "LibraryOfCongress": "sh85115064",
+    "AAT": "300020533"
+  },
+  {
+    "itemWikidataLabel": "administration",
+    "domaine_Joconde": "T51-72",
+    "itemWikidata": "http://www.wikidata.org/entity/Q3754526"
+  },
+  {
+    "itemWikidataLabel": "agriculture",
+    "domaine_Joconde": "T51-47",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11451",
+    "BnF": "11934798x",
+    "GnD": "4034402-2",
+    "LibraryOfCongress": "sh85002415",
+    "AAT": "300054463",
+    "Pactols": "pcrtuDGmtyntVb",
+    "UNESCO": "concept598"
+  },
+  {
+    "itemWikidataLabel": "agriculture",
+    "domaine_Joconde": "T51-47",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11451",
+    "BnF": "11934798x",
+    "GnD": "4034402-2",
+    "LibraryOfCongress": "sh85002415",
+    "AAT": "300192802",
+    "Pactols": "pcrtuDGmtyntVb",
+    "UNESCO": "concept598"
+  },
+  {
+    "itemWikidataLabel": "ameublement",
+    "domaine_Joconde": "T51-48",
+    "itemWikidata": "http://www.wikidata.org/entity/Q31807746",
+    "AAT": "300037336",
+    "Nomenclature": "967"
+  },
+  {
+    "itemWikidataLabel": "animal",
+    "domaine_Joconde": "T51-167",
+    "itemWikidata": "http://www.wikidata.org/entity/Q729",
+    "BnF": "119328694",
+    "GnD": "4060087-7",
+    "LibraryOfCongress": "sh85005249",
+    "AAT": "300249395",
+    "UNESCO": "concept2380"
+  },
+  {
+    "itemWikidataLabel": "anthropologie",
+    "domaine_Joconde": "T51-148",
+    "itemWikidata": "http://www.wikidata.org/entity/Q23404",
+    "BnF": "133184815",
+    "GnD": "4002230-4",
+    "LibraryOfCongress": "sh85005581",
+    "AAT": "300054315",
+    "UNESCO": "concept229"
+  },
+  {
+    "itemWikidataLabel": "architecture",
+    "domaine_Joconde": "T51-159",
+    "itemWikidata": "http://www.wikidata.org/entity/Q12271",
+    "GnD": "4002851-3",
+    "LibraryOfCongress": "sh85006611",
+    "Pactols": "pcrtKJVpuP3AET",
+    "UNESCO": "concept340"
+  },
+  {
+    "itemWikidataLabel": "archéologie",
+    "domaine_Joconde": "T51-128",
+    "itemWikidata": "http://www.wikidata.org/entity/Q23498",
+    "BnF": "13318444z",
+    "GnD": "4002827-6",
+    "LibraryOfCongress": "sh85006507",
+    "AAT": "300054328",
+    "Pactols": "pcrty05M9SVnLu",
+    "UNESCO": "concept298"
+  },
+  {
+    "itemWikidataLabel": "armurerie",
+    "domaine_Joconde": "T51-13",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1412205",
+    "GnD": "4190772-3",
+    "Nomenclature": "705"
+  },
+  {
+    "itemWikidataLabel": "armée",
+    "domaine_Joconde": "T51-70",
+    "itemWikidata": "http://www.wikidata.org/entity/Q8473",
+    "GnD": "4039305-7",
+    "LibraryOfCongress": "sh99002455",
+    "Pactols": "pcrtDz6FAhsh6y"
+  },
+  {
+    "itemWikidataLabel": "art de l'Égypte antique",
+    "domaine_Joconde": "T51-96",
+    "itemWikidata": "http://www.wikidata.org/entity/Q318394",
+    "Pactols": "pcrt2BDKjpw0Vt"
+  },
+  {
+    "itemWikidataLabel": "art pariétal",
+    "domaine_Joconde": "T51-3",
+    "itemWikidata": "http://www.wikidata.org/entity/Q7137052",
+    "Pactols": "pcrtTv2xhrEwPW"
+  },
+  {
+    "itemWikidataLabel": "artisanat",
+    "domaine_Joconde": "T51-52",
+    "itemWikidata": "http://www.wikidata.org/entity/Q877729",
+    "GnD": "4073883-8",
+    "Pactols": "pcrtuNA5xRSr9l"
+  },
+  {
+    "itemWikidataLabel": "arts de l'Islam",
+    "domaine_Joconde": "T51-171",
+    "itemWikidata": "http://www.wikidata.org/entity/Q189594",
+    "LibraryOfCongress": "sh85068412",
+    "Pactols": "pcrt1RQWEhnyll",
+    "UNESCO": "concept2643"
+  },
+  {
+    "itemWikidataLabel": "arts de l'Islam",
+    "domaine_Joconde": "T51-171",
+    "itemWikidata": "http://www.wikidata.org/entity/Q189594",
+    "LibraryOfCongress": "sh85068412",
+    "Pactols": "pcrt1RQWEhnyll",
+    "UNESCO": "concept2967"
+  },
+  {
+    "itemWikidataLabel": "arts décoratifs",
+    "domaine_Joconde": "T51-147",
+    "itemWikidata": "http://www.wikidata.org/entity/Q631931",
+    "AAT": "300054168",
+    "Pactols": "pcrtkOgxvd4Ijy",
+    "UNESCO": "concept341"
+  },
+  {
+    "itemWikidataLabel": "basques",
+    "domaine_Joconde": "T51-92",
+    "itemWikidata": "http://www.wikidata.org/entity/Q126756",
+    "BnF": "133183033",
+    "GnD": "4004644-8",
+    "LibraryOfCongress": "sh85012145",
+    "Pactols": "pcrtxvYfo5iyQj"
+  },
+  {
+    "itemWikidataLabel": "beaux-arts",
+    "domaine_Joconde": "T51-170",
+    "itemWikidata": "http://www.wikidata.org/entity/Q219625",
+    "AAT": "300054195",
+    "UNESCO": "concept342"
+  },
+  {
+    "itemWikidataLabel": "botanique",
+    "domaine_Joconde": "T51-161",
+    "itemWikidata": "http://www.wikidata.org/entity/Q441",
+    "GnD": "4007842-5",
+    "LibraryOfCongress": "sh85015976",
+    "AAT": "300054467",
+    "Pactols": "pcrtvw7qwGBX9r",
+    "UNESCO": "concept230"
+  },
+  {
+    "itemWikidataLabel": "broderie",
+    "domaine_Joconde": "T51-150",
+    "itemWikidata": "http://www.wikidata.org/entity/Q18281",
+    "BnF": "119400073",
+    "GnD": "4057504-4",
+    "LibraryOfCongress": "sh85042701",
+    "AAT": "300053653",
+    "Pactols": "pcrtEZ3IWDDNh4"
+  },
+  {
+    "itemWikidataLabel": "carte géographique",
+    "domaine_Joconde": "T51-130",
+    "itemWikidata": "http://www.wikidata.org/entity/Q4006",
+    "GnD": "4029783-4",
+    "LibraryOfCongress": "sh85080858",
+    "AAT": "300028094",
+    "UNESCO": "concept3270",
+    "Nomenclature": "13399"
+  },
+  {
+    "itemWikidataLabel": "carte géographique",
+    "domaine_Joconde": "T51-130",
+    "itemWikidata": "http://www.wikidata.org/entity/Q4006",
+    "GnD": "4029783-4",
+    "LibraryOfCongress": "sh99002035",
+    "AAT": "300028094",
+    "UNESCO": "concept3270",
+    "Nomenclature": "13399"
+  },
+  {
+    "itemWikidataLabel": "chant",
+    "domaine_Joconde": "T51-64",
+    "itemWikidata": "http://www.wikidata.org/entity/Q27939",
+    "GnD": "4020470-4",
+    "Pactols": "pcrtHfc0ScaO1k"
+  },
+  {
+    "itemWikidataLabel": "chasse",
+    "domaine_Joconde": "T51-53",
+    "itemWikidata": "http://www.wikidata.org/entity/Q36963",
+    "BnF": "119311589",
+    "GnD": "4027955-8",
+    "LibraryOfCongress": "sh85063117",
+    "AAT": "300239666",
+    "Pactols": "pcrtcoV2DHQBSp",
+    "UNESCO": "concept4807"
+  },
+  {
+    "itemWikidataLabel": "chaudronnerie",
+    "domaine_Joconde": "T51-15",
+    "itemWikidata": "http://www.wikidata.org/entity/Q4115400",
+    "Pactols": "pcrtqnlwWUYBQL"
+  },
+  {
+    "itemWikidataLabel": "cinéma",
+    "domaine_Joconde": "6466d493-5d9c-448d-b7de-1136d20d413f",
+    "itemWikidata": "http://www.wikidata.org/entity/Q590870",
+    "BnF": "119361188",
+    "GnD": "4017144-9",
+    "AAT": "300054227"
+  },
+  {
+    "itemWikidataLabel": "civilisation carthaginoise",
+    "domaine_Joconde": "T51-108",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2429397",
+    "LibraryOfCongress": "sh85020502",
+    "AAT": "300391484"
+  },
+  {
+    "itemWikidataLabel": "civilisation inca",
+    "domaine_Joconde": "T51-102",
+    "itemWikidata": "http://www.wikidata.org/entity/Q3404008",
+    "Pactols": "pcrt755Hfqu92S"
+  },
+  {
+    "itemWikidataLabel": "civilisation précolombienne",
+    "domaine_Joconde": "T51-87",
+    "itemWikidata": "http://www.wikidata.org/entity/Q202390",
+    "AAT": "300016619",
+    "Pactols": "pcrtmSboe11eDx"
+  },
+  {
+    "itemWikidataLabel": "civilisation précolombienne",
+    "domaine_Joconde": "T51-87",
+    "itemWikidata": "http://www.wikidata.org/entity/Q202390",
+    "AAT": "300016684",
+    "Pactols": "pcrtmSboe11eDx"
+  },
+  {
+    "itemWikidataLabel": "commerce",
+    "domaine_Joconde": "T51-54",
+    "itemWikidata": "http://www.wikidata.org/entity/Q601401",
+    "GnD": "4023222-0",
+    "LibraryOfCongress": "sh85028901",
+    "AAT": "300061886",
+    "Pactols": "pcrthOtrQhBIUG",
+    "UNESCO": "concept664"
+  },
+  {
+    "itemWikidataLabel": "communication",
+    "domaine_Joconde": "T51-66",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11024",
+    "BnF": "11938923j",
+    "GnD": "4031883-7",
+    "LibraryOfCongress": "sh85029027",
+    "AAT": "300137794",
+    "UNESCO": "concept460"
+  },
+  {
+    "itemWikidataLabel": "construction",
+    "domaine_Joconde": "T51-168",
+    "itemWikidata": "http://www.wikidata.org/entity/Q385378",
+    "GnD": "4206990-7",
+    "LibraryOfCongress": "sh85017693",
+    "AAT": "300054608"
+  },
+  {
+    "itemWikidataLabel": "costume",
+    "domaine_Joconde": "T51-55",
+    "itemWikidata": "http://www.wikidata.org/entity/Q9053464",
+    "AAT": "300178802"
+  },
+  {
+    "itemWikidataLabel": "coutume",
+    "domaine_Joconde": "T51-56",
+    "itemWikidata": "http://www.wikidata.org/entity/Q251777",
+    "GnD": "4008017-1"
+  },
+  {
+    "itemWikidataLabel": "croyance religieuse",
+    "domaine_Joconde": "T51-56",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2728698",
+    "UNESCO": "concept3707"
+  },
+  {
+    "itemWikidataLabel": "cueillette",
+    "domaine_Joconde": "T51-53",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2991771",
+    "Pactols": "pcrteddANclva4"
+  },
+  {
+    "itemWikidataLabel": "culture",
+    "domaine_Joconde": "T51-74",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11042",
+    "BnF": "11931827z",
+    "GnD": "4125698-0",
+    "LibraryOfCongress": "sh85034755",
+    "AAT": "300055768",
+    "UNESCO": "concept264"
+  },
+  {
+    "itemWikidataLabel": "céramique",
+    "domaine_Joconde": "T51-14",
+    "itemWikidata": "http://www.wikidata.org/entity/Q45621",
+    "BnF": "11935435f",
+    "GnD": "4030270-2",
+    "AAT": "300235507",
+    "Pactols": "pcrt1DMOWvDF4j",
+    "UNESCO": "concept4413"
+  },
+  {
+    "itemWikidataLabel": "danse",
+    "domaine_Joconde": "T51-64",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11639",
+    "GnD": "4059028-8",
+    "LibraryOfCongress": "sh85035659",
+    "Pactols": "pcrtw6n4DvmdOZ",
+    "UNESCO": "concept351"
+  },
+  {
+    "itemWikidataLabel": "dentellerie",
+    "domaine_Joconde": "T51-151",
+    "itemWikidata": "http://www.wikidata.org/entity/Q89304761"
+  },
+  {
+    "itemWikidataLabel": "design",
+    "domaine_Joconde": "T51-131",
+    "itemWikidata": "http://www.wikidata.org/entity/Q82604",
+    "GnD": "4011510-0",
+    "LibraryOfCongress": "sh85037197",
+    "AAT": "300054171"
+  },
+  {
+    "itemWikidataLabel": "dessin",
+    "domaine_Joconde": "T51-4",
+    "itemWikidata": "http://www.wikidata.org/entity/Q93184",
+    "GnD": "4127900-1",
+    "AAT": "300033973",
+    "Pactols": "pcrtzmgVgArOJh",
+    "UNESCO": "concept4716",
+    "Nomenclature": "12903"
+  },
+  {
+    "itemWikidataLabel": "domicile",
+    "domaine_Joconde": "T51-69",
+    "itemWikidata": "http://www.wikidata.org/entity/Q7743",
+    "LibraryOfCongress": "sh85061657"
+  },
+  {
+    "itemWikidataLabel": "enseignement",
+    "domaine_Joconde": "T51-58",
+    "itemWikidata": "http://www.wikidata.org/entity/Q352842",
+    "AAT": "300069743",
+    "Pactols": "pcrt9vNUqRWTWt",
+    "UNESCO": "concept82"
+  },
+  {
+    "itemWikidataLabel": "environnement",
+    "domaine_Joconde": "T51-59",
+    "itemWikidata": "http://www.wikidata.org/entity/Q43619",
+    "UNESCO": "concept3278"
+  },
+  {
+    "itemWikidataLabel": "esclavage",
+    "domaine_Joconde": "bfd34179-8f7e-4661-b103-b3ed1a2c2909",
+    "itemWikidata": "http://www.wikidata.org/entity/Q8463",
+    "GnD": "4055260-3",
+    "LibraryOfCongress": "sh85123314",
+    "AAT": "300055309",
+    "Pactols": "pcrtZB9iAZQbhj",
+    "UNESCO": "concept4733"
+  },
+  {
+    "itemWikidataLabel": "estampe",
+    "domaine_Joconde": "T51-6",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11060274",
+    "AAT": "300041273",
+    "Pactols": "pcrtQRJAu1ZqJK",
+    "Nomenclature": "13448"
+  },
+  {
+    "itemWikidataLabel": "ethnologie",
+    "domaine_Joconde": "T51-133",
+    "itemWikidata": "http://www.wikidata.org/entity/Q43455",
+    "BnF": "13318485j",
+    "GnD": "4078931-7",
+    "LibraryOfCongress": "sh85045198",
+    "AAT": "300054316",
+    "Pactols": "pcrtxMZey15FER",
+    "UNESCO": "concept376"
+  },
+  {
+    "itemWikidataLabel": "ferronnerie",
+    "domaine_Joconde": "T51-19",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1562096",
+    "AAT": "300015338",
+    "Pactols": "pcrt9fuIbhcoZu"
+  },
+  {
+    "itemWikidataLabel": "finance",
+    "domaine_Joconde": "T51-54",
+    "itemWikidata": "http://www.wikidata.org/entity/Q43015",
+    "LibraryOfCongress": "sh2002007885",
+    "AAT": "300055715",
+    "UNESCO": "concept663"
+  },
+  {
+    "itemWikidataLabel": "fête",
+    "domaine_Joconde": "T51-65",
+    "itemWikidata": "http://www.wikidata.org/entity/Q200538",
+    "GnD": "4121260-5",
+    "LibraryOfCongress": "sh2001000033",
+    "AAT": "300069614",
+    "Pactols": "pcrtXjbjyxyKwb"
+  },
+  {
+    "itemWikidataLabel": "glyptique",
+    "domaine_Joconde": "T51-20",
+    "itemWikidata": "http://www.wikidata.org/entity/Q929254",
+    "GnD": "4057223-7",
+    "AAT": "300054082",
+    "Pactols": "pcrtk2Q3q7YWXG"
+  },
+  {
+    "itemWikidataLabel": "géologie",
+    "domaine_Joconde": "T51-164",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1069",
+    "GnD": "4020227-6",
+    "LibraryOfCongress": "sh85054037",
+    "AAT": "300054546",
+    "Pactols": "pcrtcMAzwfcMyS",
+    "UNESCO": "concept159"
+  },
+  {
+    "itemWikidataLabel": "harnachement",
+    "domaine_Joconde": "T51-139",
+    "itemWikidata": "http://www.wikidata.org/entity/Q950799",
+    "LibraryOfCongress": "sh93004493",
+    "Pactols": "pcrtNtGbI8Rqxi"
+  },
+  {
+    "itemWikidataLabel": "histoire",
+    "domaine_Joconde": "T51-140",
+    "itemWikidata": "http://www.wikidata.org/entity/Q309",
+    "GnD": "4020517-4",
+    "LibraryOfCongress": "sh85061212",
+    "Pactols": "pcrtJHV6SKuS8I",
+    "UNESCO": "concept301"
+  },
+  {
+    "itemWikidataLabel": "histoire",
+    "domaine_Joconde": "T51-140",
+    "itemWikidata": "http://www.wikidata.org/entity/Q309",
+    "GnD": "4020517-4",
+    "LibraryOfCongress": "sh85061212",
+    "Pactols": "pcrtJHV6SKuS8I",
+    "UNESCO": "concept302"
+  },
+  {
+    "itemWikidataLabel": "histoire moderne",
+    "domaine_Joconde": "T51-84",
+    "itemWikidata": "http://www.wikidata.org/entity/Q3281534",
+    "GnD": "4171678-4",
+    "LibraryOfCongress": "sh85061236",
+    "Pactols": "pcrtPSEEZSBEJp",
+    "UNESCO": "concept11865"
+  },
+  {
+    "itemWikidataLabel": "horlogerie",
+    "domaine_Joconde": "T51-21",
+    "itemWikidata": "http://www.wikidata.org/entity/Q41767",
+    "GnD": "4129074-4"
+  },
+  {
+    "itemWikidataLabel": "hygiène",
+    "domaine_Joconde": "T51-60",
+    "itemWikidata": "http://www.wikidata.org/entity/Q162297",
+    "GnD": "4026331-9",
+    "LibraryOfCongress": "sh85118338",
+    "AAT": "300379164",
+    "Pactols": "pcrtXiL6nBw86Y",
+    "UNESCO": "concept11758"
+  },
+  {
+    "itemWikidataLabel": "héraldique",
+    "domaine_Joconde": "T51-138",
+    "itemWikidata": "http://www.wikidata.org/entity/Q18336",
+    "GnD": "4072428-1",
+    "UNESCO": "concept300"
+  },
+  {
+    "itemWikidataLabel": "imprimé",
+    "domaine_Joconde": "T51-8",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1261026",
+    "GnD": "4013134-8",
+    "LibraryOfCongress": "sh85106766",
+    "AAT": "300404588"
+  },
+  {
+    "itemWikidataLabel": "industrie",
+    "domaine_Joconde": "T51-52",
+    "itemWikidata": "http://www.wikidata.org/entity/Q8148",
+    "GnD": "4026779-9",
+    "AAT": "300055718",
+    "UNESCO": "concept608"
+  },
+  {
+    "itemWikidataLabel": "installation",
+    "domaine_Joconde": "T51-40",
+    "itemWikidata": "http://www.wikidata.org/entity/Q20437094",
+    "LibraryOfCongress": "sh85066731",
+    "AAT": "300047896"
+  },
+  {
+    "itemWikidataLabel": "instrument de mesure",
+    "domaine_Joconde": "T51-63",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2041172",
+    "BnF": "119324889",
+    "GnD": "4038825-6",
+    "LibraryOfCongress": "sh85082706",
+    "AAT": "300207870",
+    "Pactols": "pcrtiTfxN9MLL9",
+    "UNESCO": "concept12690"
+  },
+  {
+    "itemWikidataLabel": "ivoirerie",
+    "domaine_Joconde": "T51-24",
+    "itemWikidata": "http://www.wikidata.org/entity/Q351853"
+  },
+  {
+    "itemWikidataLabel": "jeu",
+    "domaine_Joconde": "T51-61",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11410",
+    "GnD": "4056218-9",
+    "Pactols": "pcrtV3kw2a2i6i"
+  },
+  {
+    "itemWikidataLabel": "loisir",
+    "domaine_Joconde": "T51-61",
+    "itemWikidata": "http://www.wikidata.org/entity/Q184872",
+    "GnD": "4015261-3",
+    "LibraryOfCongress": "sh85111945",
+    "AAT": "300069710",
+    "Pactols": "pcrtajHBJm1GSI"
+  },
+  {
+    "itemWikidataLabel": "lutherie",
+    "domaine_Joconde": "T51-154",
+    "itemWikidata": "http://www.wikidata.org/entity/Q3267878",
+    "AAT": "300379786"
+  },
+  {
+    "itemWikidataLabel": "manuscrit",
+    "domaine_Joconde": "T51-9",
+    "itemWikidata": "http://www.wikidata.org/entity/Q87167",
+    "GnD": "4126273-6",
+    "LibraryOfCongress": "sh85080672",
+    "AAT": "300028569",
+    "Pactols": "pcrtvZpJkjngoX",
+    "UNESCO": "concept8324",
+    "Nomenclature": "13729"
+  },
+  {
+    "itemWikidataLabel": "manuscrit enluminé",
+    "domaine_Joconde": "T51-5",
+    "itemWikidata": "http://www.wikidata.org/entity/Q48498",
+    "BnF": "11932413d",
+    "GnD": "4120472-4",
+    "LibraryOfCongress": "sh85064332",
+    "AAT": "300265483"
+  },
+  {
+    "itemWikidataLabel": "menuiserie",
+    "domaine_Joconde": "T51-25",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2183679"
+  },
+  {
+    "itemWikidataLabel": "migration humaine",
+    "domaine_Joconde": "27686e84-a444-4496-aea8-e1a9b8ced6d3",
+    "itemWikidata": "http://www.wikidata.org/entity/Q177626",
+    "GnD": "4120730-0",
+    "AAT": "300263931",
+    "Pactols": "pcrtMqdYDvNdi0",
+    "UNESCO": "concept427"
+  },
+  {
+    "itemWikidataLabel": "miniature",
+    "domaine_Joconde": "T51-11",
+    "itemWikidata": "http://www.wikidata.org/entity/Q8362",
+    "GnD": "4008650-1",
+    "AAT": "300264522"
+  },
+  {
+    "itemWikidataLabel": "mosaïque",
+    "domaine_Joconde": "T51-26",
+    "itemWikidata": "http://www.wikidata.org/entity/Q133067",
+    "GnD": "4040311-7",
+    "AAT": "300015342",
+    "Pactols": "pcrtqjiJozZ1eX",
+    "UNESCO": "concept11738",
+    "Nomenclature": "432"
+  },
+  {
+    "itemWikidataLabel": "musique",
+    "domaine_Joconde": "T51-64",
+    "itemWikidata": "http://www.wikidata.org/entity/Q638",
+    "GnD": "4040802-4",
+    "LibraryOfCongress": "sh85088762",
+    "AAT": "300054146",
+    "Pactols": "pcrtEnaO4jSDml",
+    "UNESCO": "concept353"
+  },
+  {
+    "itemWikidataLabel": "musique",
+    "domaine_Joconde": "T51-64",
+    "itemWikidata": "http://www.wikidata.org/entity/Q638",
+    "GnD": "4040802-4",
+    "LibraryOfCongress": "sh99001795",
+    "AAT": "300054146",
+    "Pactols": "pcrtEnaO4jSDml",
+    "UNESCO": "concept353"
+  },
+  {
+    "itemWikidataLabel": "mycologie",
+    "domaine_Joconde": "704f0fe5-572a-48e1-b633-2c0f7d77623a",
+    "itemWikidata": "http://www.wikidata.org/entity/Q7175",
+    "GnD": "4139655-8",
+    "LibraryOfCongress": "sh85089188"
+  },
+  {
+    "itemWikidataLabel": "médecine",
+    "domaine_Joconde": "T51-60",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11190",
+    "GnD": "4038243-6",
+    "LibraryOfCongress": "sh85083064"
+  },
+  {
+    "itemWikidataLabel": "métallurgie",
+    "domaine_Joconde": "T51-153",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11467",
+    "GnD": "4074756-6",
+    "LibraryOfCongress": "sh85084158",
+    "AAT": "300054499",
+    "Pactols": "pcrtuf9JSs9vo6",
+    "UNESCO": "concept626"
+  },
+  {
+    "itemWikidataLabel": "métrologie",
+    "domaine_Joconde": "T51-63",
+    "itemWikidata": "http://www.wikidata.org/entity/Q394",
+    "GnD": "4169749-2",
+    "LibraryOfCongress": "sh2001008470",
+    "AAT": "300379443",
+    "Pactols": "pcrtaJkXATOYwB",
+    "UNESCO": "concept13884"
+  },
+  {
+    "itemWikidataLabel": "numismatique",
+    "domaine_Joconde": "T51-141",
+    "itemWikidata": "http://www.wikidata.org/entity/Q631286",
+    "GnD": "4172175-5",
+    "AAT": "300054419",
+    "Pactols": "pcrtaEf2wWY07i",
+    "UNESCO": "concept304"
+  },
+  {
+    "itemWikidataLabel": "néolithique",
+    "domaine_Joconde": "T51-85",
+    "itemWikidata": "http://www.wikidata.org/entity/Q36422",
+    "GnD": "4075272-0",
+    "LibraryOfCongress": "sh85090768",
+    "AAT": "300019267",
+    "Pactols": "pcrtH8P95EucZz",
+    "UNESCO": "concept14499"
+  },
+  {
+    "itemWikidataLabel": "objet",
+    "domaine_Joconde": "e2acd93a-8a37-4ce6-b04c-a184d03b2e15",
+    "itemWikidata": "http://www.wikidata.org/entity/Q337060",
+    "GnD": "4019715-3"
+  },
+  {
+    "itemWikidataLabel": "orfèvrerie",
+    "domaine_Joconde": "T51-28",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11202319",
+    "GnD": "4113771-1",
+    "AAT": "300054048",
+    "Pactols": "pcrtSIkOA9h9ld"
+  },
+  {
+    "itemWikidataLabel": "peinture",
+    "domaine_Joconde": "T51-42",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11629",
+    "GnD": "4037220-0",
+    "AAT": "300054216",
+    "Pactols": "pcrtstIRKEezxz",
+    "UNESCO": "concept8418"
+  },
+  {
+    "itemWikidataLabel": "phaléristique",
+    "domaine_Joconde": "T51-142",
+    "itemWikidata": "http://www.wikidata.org/entity/Q461262",
+    "GnD": "4573246-2"
+  },
+  {
+    "itemWikidataLabel": "philatélie",
+    "domaine_Joconde": "T51-158",
+    "itemWikidata": "http://www.wikidata.org/entity/Q131026",
+    "GnD": "4076072-8",
+    "LibraryOfCongress": "sh85105432",
+    "AAT": "300162025"
+  },
+  {
+    "itemWikidataLabel": "photographie",
+    "domaine_Joconde": "T51-43",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11633",
+    "GnD": "4045895-7",
+    "LibraryOfCongress": "sh00006943",
+    "AAT": "300054225",
+    "UNESCO": "concept345"
+  },
+  {
+    "itemWikidataLabel": "photographie",
+    "domaine_Joconde": "T51-43",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11633",
+    "GnD": "4045895-7",
+    "LibraryOfCongress": "sh00006943",
+    "AAT": "300389795",
+    "UNESCO": "concept345"
+  },
+  {
+    "itemWikidataLabel": "plumasserie",
+    "domaine_Joconde": "T51-44",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2099675"
+  },
+  {
+    "itemWikidataLabel": "politique",
+    "domaine_Joconde": "T51-72",
+    "itemWikidata": "http://www.wikidata.org/entity/Q7163",
+    "GnD": "4046514-7",
+    "LibraryOfCongress": "sh2002011436",
+    "AAT": "300055537",
+    "Pactols": "pcrtQdSP02tK3w",
+    "UNESCO": "concept15289"
+  },
+  {
+    "itemWikidataLabel": "pêche",
+    "domaine_Joconde": "T51-53",
+    "itemWikidata": "http://www.wikidata.org/entity/Q14373",
+    "GnD": "4154473-0",
+    "AAT": "300239470",
+    "Pactols": "pcrtmSImgZOUQg"
+  },
+  {
+    "itemWikidataLabel": "santé",
+    "domaine_Joconde": "T51-60",
+    "itemWikidata": "http://www.wikidata.org/entity/Q12147",
+    "GnD": "4020754-7",
+    "LibraryOfCongress": "sh85059518",
+    "AAT": "300055133",
+    "UNESCO": "concept238"
+  },
+  {
+    "itemWikidataLabel": "science",
+    "domaine_Joconde": "T51-144",
+    "itemWikidata": "http://www.wikidata.org/entity/Q336",
+    "BnF": "11933232c",
+    "GnD": "4066562-8",
+    "LibraryOfCongress": "sh00007934",
+    "AAT": "300054462"
+  },
+  {
+    "itemWikidataLabel": "science de la nature",
+    "domaine_Joconde": "T51-156",
+    "itemWikidata": "http://www.wikidata.org/entity/Q7991",
+    "GnD": "4041421-8",
+    "LibraryOfCongress": "sh85090222",
+    "AAT": "300233656",
+    "UNESCO": "concept233"
+  },
+  {
+    "itemWikidataLabel": "sculpture",
+    "domaine_Joconde": "T51-45",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11634",
+    "BnF": "11933241b",
+    "GnD": "4046277-8",
+    "LibraryOfCongress": "sh85119004",
+    "AAT": "300264383",
+    "Pactols": "pcrt4rR2kyMQuW",
+    "UNESCO": "concept10193"
+  },
+  {
+    "itemWikidataLabel": "sellerie automobile",
+    "domaine_Joconde": "T51-29",
+    "itemWikidata": "http://www.wikidata.org/entity/Q3478178"
+  },
+  {
+    "itemWikidataLabel": "serrurerie",
+    "domaine_Joconde": "T51-30",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2304418",
+    "GnD": "4278241-7",
+    "Pactols": "pcrtuq4lc43JjB"
+  },
+  {
+    "itemWikidataLabel": "sigillographie",
+    "domaine_Joconde": "T51-145",
+    "itemWikidata": "http://www.wikidata.org/entity/Q379838",
+    "GnD": "4181228-1",
+    "LibraryOfCongress": "sh85119320",
+    "Pactols": "pcrt4HOgRfOBut"
+  },
+  {
+    "itemWikidataLabel": "société",
+    "domaine_Joconde": "T51-74",
+    "itemWikidata": "http://www.wikidata.org/entity/Q8425",
+    "GnD": "4020588-5",
+    "LibraryOfCongress": "sh85124175"
+  },
+  {
+    "itemWikidataLabel": "spectacle",
+    "domaine_Joconde": "T51-65",
+    "itemWikidata": "http://www.wikidata.org/entity/Q15116915",
+    "LibraryOfCongress": "sh85052948",
+    "Pactols": "pcrtk9fsq49Ab1"
+  },
+  {
+    "itemWikidataLabel": "sport",
+    "domaine_Joconde": "T51-61",
+    "itemWikidata": "http://www.wikidata.org/entity/Q349",
+    "BnF": "133188907",
+    "GnD": "4056366-2",
+    "LibraryOfCongress": "sh00007735",
+    "Pactols": "pcrtcS3oJgVjRu"
+  },
+  {
+    "itemWikidataLabel": "sport",
+    "domaine_Joconde": "T51-61",
+    "itemWikidata": "http://www.wikidata.org/entity/Q349",
+    "BnF": "133188907",
+    "GnD": "4056366-2",
+    "LibraryOfCongress": "sh85126887",
+    "Pactols": "pcrtcS3oJgVjRu"
+  },
+  {
+    "itemWikidataLabel": "tabletterie",
+    "domaine_Joconde": "T51-31",
+    "itemWikidata": "http://www.wikidata.org/entity/Q89304504"
+  },
+  {
+    "itemWikidataLabel": "tabletterie gallo-romaine",
+    "domaine_Joconde": "T51-31",
+    "itemWikidata": "http://www.wikidata.org/entity/Q3513509"
+  },
+  {
+    "itemWikidataLabel": "tapisserie",
+    "domaine_Joconde": "T51-32",
+    "itemWikidata": "http://www.wikidata.org/entity/Q184296",
+    "GnD": "4006648-4",
+    "AAT": "300205002",
+    "Pactols": "pcrtLhbOznwGk6",
+    "UNESCO": "concept4694",
+    "Nomenclature": "12984"
+  },
+  {
+    "itemWikidataLabel": "technique",
+    "domaine_Joconde": "T51-144",
+    "itemWikidata": "http://www.wikidata.org/entity/Q2695280",
+    "GnD": "4059205-4",
+    "AAT": "300138082"
+  },
+  {
+    "itemWikidataLabel": "textile",
+    "domaine_Joconde": "T51-34",
+    "itemWikidata": "http://www.wikidata.org/entity/Q28823",
+    "GnD": "4135786-3",
+    "LibraryOfCongress": "sh85134321",
+    "AAT": "300014063",
+    "Pactols": "pcrthAOjGBEfZk",
+    "UNESCO": "concept642"
+  },
+  {
+    "itemWikidataLabel": "textile",
+    "domaine_Joconde": "T51-34",
+    "itemWikidata": "http://www.wikidata.org/entity/Q28823",
+    "GnD": "4135786-3",
+    "LibraryOfCongress": "sh85134321",
+    "AAT": "300231565",
+    "Pactols": "pcrthAOjGBEfZk",
+    "UNESCO": "concept642"
+  },
+  {
+    "itemWikidataLabel": "transport",
+    "domaine_Joconde": "T51-66",
+    "itemWikidata": "http://www.wikidata.org/entity/Q7590",
+    "GnD": "4062901-6",
+    "LibraryOfCongress": "sh85137027",
+    "AAT": "300055244",
+    "UNESCO": "concept660"
+  },
+  {
+    "itemWikidataLabel": "travail",
+    "domaine_Joconde": "T51-73",
+    "itemWikidata": "http://www.wikidata.org/entity/Q6958747",
+    "GnD": "4002567-6",
+    "LibraryOfCongress": "sh90004091",
+    "AAT": "300263340",
+    "Pactols": "pcrtLAIHHPQYx9",
+    "UNESCO": "concept683"
+  },
+  {
+    "itemWikidataLabel": "vannerie",
+    "domaine_Joconde": "T51-37",
+    "itemWikidata": "http://www.wikidata.org/entity/Q373017",
+    "LibraryOfCongress": "sh85012110",
+    "Pactols": "pcrt2o4bOY3kIh"
+  },
+  {
+    "itemWikidataLabel": "verrerie",
+    "domaine_Joconde": "T51-38",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1089246",
+    "Pactols": "pcrtpYS4ijo0m2"
+  },
+  {
+    "itemWikidataLabel": "vidéo",
+    "domaine_Joconde": "a0c77d3d-ccaf-41c8-b2c8-ace8e43f47ba",
+    "itemWikidata": "http://www.wikidata.org/entity/Q34508",
+    "GnD": "4063466-8",
+    "LibraryOfCongress": "sh92003035"
+  },
+  {
+    "itemWikidataLabel": "vitrail",
+    "domaine_Joconde": "T51-39",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1473346",
+    "GnD": "4021177-0",
+    "LibraryOfCongress": "sh85055165",
+    "AAT": "300010853",
+    "Pactols": "pcrtfiKSZUXfxE",
+    "UNESCO": "concept2954"
+  },
+  {
+    "itemWikidataLabel": "vitrail",
+    "domaine_Joconde": "T51-39",
+    "itemWikidata": "http://www.wikidata.org/entity/Q1473346",
+    "GnD": "4021177-0",
+    "LibraryOfCongress": "sh85055165",
+    "AAT": "300263722",
+    "Pactols": "pcrtfiKSZUXfxE",
+    "UNESCO": "concept2954"
+  },
+  {
+    "itemWikidataLabel": "Étrusques",
+    "domaine_Joconde": "T51-97",
+    "itemWikidata": "http://www.wikidata.org/entity/Q17161",
+    "GnD": "4015627-8",
+    "LibraryOfCongress": "sh85045470",
+    "AAT": "300020471",
+    "Pactols": "pcrt5eUmg9dK5H"
+  },
+  {
+    "itemWikidataLabel": "âge du bronze",
+    "domaine_Joconde": "T51-77",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11761",
+    "GnD": "4008357-3",
+    "AAT": "300019275",
+    "Pactols": "pcrtGTWPtWn8qu"
+  },
+  {
+    "itemWikidataLabel": "âge du fer",
+    "domaine_Joconde": "T51-78",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11764",
+    "BnF": "11946304b",
+    "GnD": "4014102-0",
+    "LibraryOfCongress": "sh85068153",
+    "AAT": "300019279",
+    "Pactols": "pcrtW9SpIgIk7Q"
+  },
+  {
+    "itemWikidataLabel": "ébénisterie",
+    "domaine_Joconde": "T51-17",
+    "itemWikidata": "http://www.wikidata.org/entity/Q16868432",
+    "Pactols": "pcrtMKyUOGAjxg"
+  },
+  {
+    "itemWikidataLabel": "économie",
+    "domaine_Joconde": "T51-54",
+    "itemWikidata": "http://www.wikidata.org/entity/Q159810",
+    "GnD": "4066399-1",
+    "AAT": "300389790",
+    "Pactols": "pcrtafV5Xq6zoY"
+  },
+  {
+    "itemWikidataLabel": "émail",
+    "domaine_Joconde": "T51-18",
+    "itemWikidata": "http://www.wikidata.org/entity/Q79496108",
+    "AAT": "300178264"
+  },
+  {
+    "itemWikidataLabel": "énergie",
+    "domaine_Joconde": "T51-57",
+    "itemWikidata": "http://www.wikidata.org/entity/Q11379",
+    "GnD": "4014692-3",
+    "LibraryOfCongress": "sh85105992",
+    "AAT": "300056007"
+  },
+  {
+    "itemWikidataLabel": "épigraphie",
+    "domaine_Joconde": "T51-132",
+    "itemWikidata": "http://www.wikidata.org/entity/Q181260",
+    "GnD": "4152508-5",
+    "LibraryOfCongress": "sh85066566",
+    "AAT": "300138808",
+    "Pactols": "pcrtJrInD7k8G1",
+    "UNESCO": "concept2362"
+  },
+  {
+    "itemWikidataLabel": "époque moderne",
+    "domaine_Joconde": "T51-89",
+    "itemWikidata": "http://www.wikidata.org/entity/Q5308718",
+    "GnD": "7503866-3"
+  },
+  {
+    "itemWikidataLabel": "œuvre textile",
+    "domaine_Joconde": "T51-152",
+    "itemWikidata": "http://www.wikidata.org/entity/Q22075301",
+    "AAT": "300386843"
+  }
+]
