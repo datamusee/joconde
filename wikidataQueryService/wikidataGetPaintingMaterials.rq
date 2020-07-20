@@ -1,0 +1,6 @@
+SELECT ?item ?itemLabel
+WHERE
+{
+  ?item wdt:P279*/wdt:P31 wd:Q3300034. # painting materials
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
