@@ -8,9 +8,13 @@ Dans ce dépot git, on peut trouver des données de référence, des requêtes S
 
 Lien vers les archives gzip du dataset SemJoconde: http://givingsense.eu/joconde/
 
+Ces archives peuvent être directement chargées dans le triple store Fuseki.
+
 (english)
 The SemJoconde project has for goal to give a semantic representation of the Joconde database. As of 20/7/2020, this included nearly 600,000 descriptions of creations of French cultural heritage. The principles of Linked Open Data were adopted to build this representation. The representation is based on the CIDOC-CRM standard.
 
 In this git repository, we can find reference data, SPARQL queries, codes that contributed to the construction of this representation and links to gzip archives which group together triples constituting our semantic representation of the Joconde database. All of the triples have been grouped into multiple files so that each is not too big.
 
 Link to the gzip archives of the SemJoconde dataset: http://givingsense.eu/joconde/
+
+These archives can be loaded directly into the Fuseki triple store.
