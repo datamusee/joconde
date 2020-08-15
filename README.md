@@ -6,7 +6,13 @@ Le projet SemJoconde a pour but de donner une représentation sémantique,  de l
 
 Dans ce dépot git, on peut trouver des données de référence, des requêtes SPARQL, des codes qui ont contribués à la construction de cette représentation et des liens vers des archives gzip qui regroupent des triplets constituant notre représentation sémantique de la base Joconde. L'ensemble des triplets ont regroupés dans plusieurs fichiers pour que chacun ne soit pas trop gros.
 
-Lien vers les archives gzip du dataset SemJoconde: http://givingsense.eu/joconde/
+Lien vers les archives gzip du dataset SemJoconde: 
+
+http://givingsense.eu/joconde/
+
+and
+
+https://zenodo.org/record/3986498#.XzeUiej7SM8
 
 Ces archives peuvent être directement chargées dans le triple store Fuseki.
 
@@ -15,6 +21,12 @@ The SemJoconde project has for goal to give a semantic representation of the Joc
 
 In this git repository, we can find reference data, SPARQL queries, codes that contributed to the construction of this representation and links to gzip archives which group together triples constituting our semantic representation of the Joconde database. All of the triples have been grouped into multiple files so that each is not too big.
 
-Link to the gzip archives of the SemJoconde dataset: http://givingsense.eu/joconde/
+Link to the gzip archives of the SemJoconde dataset: 
+
+http://givingsense.eu/joconde/
+
+and
+
+https://zenodo.org/record/3986498#.XzeUiej7SM8
 
 These archives can be loaded directly into the Fuseki triple store.
