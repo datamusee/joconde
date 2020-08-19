@@ -10,7 +10,7 @@ Lien vers les archives gzip du dataset SemJoconde:
 
 http://givingsense.eu/joconde/
 
-and
+et
 
 https://zenodo.org/record/3986498#.XzeUiej7SM8
 
